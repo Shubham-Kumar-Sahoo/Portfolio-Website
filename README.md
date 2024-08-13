@@ -47,7 +47,10 @@ Follow these steps to get the project up and running locally:
 5. **Open the application**: Visit `http://localhost:3000` in your browser to view the website.
 
 
-The website will be available at `[https://shubham-kumar-sahoo.github.io/Portfolio-Website/](https://shubham-kumar-sahoo.github.io/Portfolio-Website/)`.
+## Live Demo
+
+Check out the live version of my portfolio website here: [https://shubham-kumar-sahoo.github.io/Portfolio-Website/](https://shubham-kumar-sahoo.github.io/Portfolio-Website/)
+
 
 ## 🛠️ Customization & Usage
 
