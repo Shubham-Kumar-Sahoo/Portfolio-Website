@@ -1,0 +1,43 @@
+#achievements{
+    padding-bottom: 0;
+}
+
+h6{
+    padding-bottom: 1rem;
+}
+
+.light:hover{
+    transform: translateY(0.5rem);
+}
+
+.swiper{
+    height: 30rem;
+    padding-bottom: 12rem;
+    padding-top: 10rem;
+}
+
+.swiper-slide{
+    cursor: grab;
+}
+
+.achievement__skill{
+    display: flex;
+    align-items:center;
+    gap: 1rem;
+}
+
+.achievement__skill-logo{
+    width: 10rem;
+    aspect-ratio: 1/1;
+    overflow: hidden;
+    transition: var(--transition);
+}
+
+.swiper-pagination{
+    margin-top: 8rem;
+}
+
+.swiper-pagination-bullet{
+    background: var(--color-primary);
+}
+

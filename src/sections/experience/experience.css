@@ -1,0 +1,53 @@
+.experiences__container{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 2rem 4rem;
+}
+
+.card.experience{
+    display: flex;
+    align-items: flex-start;
+    gap: 1rem;
+}
+
+.experience__icon{
+    background: var(--color-primary);
+    padding: 0.6rem;
+    border-radius: var(--border-radius-3);
+    font-size: 1.5rem;
+    color: var(--color-white);
+    transition: var(--transition);
+}
+
+.experience:hover .experience__icon{
+    background: var(--color-white);
+    color: var(--color-primary);
+}
+
+.experience h4{
+    margin-bottom: 0.7rem;
+}
+
+.experience h5{
+    margin-bottom: 0.5rem;
+}
+
+/* For tablets */
+@media screen and (max-width: 1024px) {
+    .experiences__container {
+        gap: 1.5rem;
+    }
+}
+
+
+/* For phones */
+@media screen and (max-width: 600px) {
+    .experiences__container {
+        grid-template-columns: 1fr;
+        gap: 1.2rem;
+    }
+
+    .card.experience {
+        gap: 1.2rem;
+    }
+}
