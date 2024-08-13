@@ -15,7 +15,7 @@ const data = [
         id: 2,
         desc: "Gained hands-on experience on how industry works and led a team and demonstrated my teamwork and leadership skills.",
         logo: achievement2,
-        name: 'Vocatiional Training',
+        name: 'Vocational Training',
         },
         {
         id: 3,

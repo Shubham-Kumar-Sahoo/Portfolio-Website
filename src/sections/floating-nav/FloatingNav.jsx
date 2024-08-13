@@ -6,7 +6,7 @@ import data from './data';
 const FloatingNav = () => {
   return (
     <ul id="floating__nav">
-      <Scrollspy offset={-500}
+      <Scrollspy offset={-50}
         className="scrollspy" 
         items={['header', 'about', 'experience', 'projects', 'achievements', 'contact']} currentClassName="active">
         {data.map((item) => (
