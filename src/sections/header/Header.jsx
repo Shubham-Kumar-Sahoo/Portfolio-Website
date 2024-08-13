@@ -22,7 +22,7 @@ const Header = () => {
         </div>
         <h3 className="header__name" data-aos="fade-up">Shubham Kumar Sahoo</h3>
         <p data-aos="fade-up">
-          Aspiring B.Tech in Computer Science with strong skills in machine learning and web development. Seeking a full-time position to apply my skills and contribute in innovative projects to develop practical skills in IT.
+          Aspiring B.Tech in Computer Science with strong skills in machine learning and web development. Seeking a full-time position to apply my skills and contribute in innovative projects.
         </p>
         <div className="header__cta" data-aos="fade-up">
           <a href="#contact" className="btn primary">Let's Talk</a>
