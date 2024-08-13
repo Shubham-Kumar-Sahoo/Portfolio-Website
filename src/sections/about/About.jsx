@@ -26,10 +26,10 @@ const About = () => {
             ))}
           </div>
           <p>
-            Hello! I'm Shubham, a fourth-year B.Tech student with a CGPA of 9.40. I'm passionate about machine learning and web development, continually honing my skills and enhancing my skills in data structures and algorithms. Beyond academics, I draw inspiration from manga, anime, and space exploration.
+            Hello! I'm Shubham, a fourth-year B.Tech student with a CGPA of 9.40. I'm passionate about machine learning and web development, continually honing my skills and enhancing my practical knowledge.
           </p>
           <p>
-            Aiming to excel and contribute to innovative tech projects, I also plan to pursue higher studies. In my free time, I explore tech trends or enjoy a good manga series. I'm excited about the future and look forward to making meaningful contributions to the tech industry.
+            Aiming to excel and contribute to innovative tech projects, I also plan to pursue higher studies. In my free time, I explore tech trends or enjoy a good manga series and see some space videos.
           </p>
           <a href={resume} className="btn primary" download>
             Download Resume <HiDownload />
