@@ -47,7 +47,7 @@ Follow these steps to get the project up and running locally:
 5. **Open the application**: Visit `http://localhost:3000` in your browser to view the website.
 
 
-The website will be available at `https://your-username.github.io/portfolio-website/](https://shubham-kumar-sahoo.github.io/Portfolio-Website/`.
+The website will be available at `https://shubham-kumar-sahoo.github.io/Portfolio-Website/`.
 
 ## 🛠️ Customization & Usage
 
@@ -69,7 +69,7 @@ This portfolio is designed to be easily customizable. You can personalize the fo
 If you find this project interesting, or if you want to collaborate, feel free to connect with me on:
 
 - [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/)
-- [Twitter](https://twitter.com/your-twitter-handle/)
+- [Instagram](https://www.instagram.com/im_shubham_34/)
 - [GitHub](https://github.com/your-username/)
 
 Thank you for checking out my portfolio website! Your feedback and contributions are highly appreciated.
