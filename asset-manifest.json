@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Portfolio-Website/static/css/main.fce53e6f.css",
+    "main.js": "/Portfolio-Website/static/js/main.6aa7ba41.js",
+    "static/media/achievement1.jpg": "/Portfolio-Website/static/media/achievement1.93713f38fe651e962aa5.jpg",
+    "static/media/about.jpg": "/Portfolio-Website/static/media/about.7ed770ccda3351f1ce59.jpg",
+    "static/media/achievement2.jpg": "/Portfolio-Website/static/media/achievement2.35dcd4e23a38f084c9d8.jpg",
+    "static/media/achievement3.jpg": "/Portfolio-Website/static/media/achievement3.47f328bf5415bb68baa3.jpg",
+    "static/media/project8.jpg": "/Portfolio-Website/static/media/project8.fc91842b70499baf0caf.jpg",
+    "static/media/project1.jpg": "/Portfolio-Website/static/media/project1.ca3c812f2fbe0545587f.jpg",
+    "static/media/achievement4.jpg": "/Portfolio-Website/static/media/achievement4.e85d6da0aa8afa0fb768.jpg",
+    "static/media/project9.jpg": "/Portfolio-Website/static/media/project9.e5c5de582173c42df748.jpg",
+    "static/media/project7.jpg": "/Portfolio-Website/static/media/project7.7032647625f9424845e0.jpg",
+    "static/media/project6.jpg": "/Portfolio-Website/static/media/project6.40903820ffb9fd91fabd.jpg",
+    "static/media/project3.jpg": "/Portfolio-Website/static/media/project3.f4b537584e9e5e212b19.jpg",
+    "static/media/project2.jpg": "/Portfolio-Website/static/media/project2.b3e5841da738407f00f5.jpg",
+    "static/media/project5.jpg": "/Portfolio-Website/static/media/project5.63a2ff1d366de2570920.jpg",
+    "static/media/header.jpeg": "/Portfolio-Website/static/media/header.1530a05553db7bf61d5b.jpeg",
+    "static/media/project4.jpg": "/Portfolio-Website/static/media/project4.2643d769a393b7ddb5fd.jpg",
+    "static/media/resume.pdf": "/Portfolio-Website/static/media/resume.417a90c0e8a1ddfdfd2a.pdf",
+    "static/media/logo.jpeg": "/Portfolio-Website/static/media/logo.ec1c8a73b85367d7b61f.jpeg",
+    "index.html": "/Portfolio-Website/index.html",
+    "main.fce53e6f.css.map": "/Portfolio-Website/static/css/main.fce53e6f.css.map",
+    "main.6aa7ba41.js.map": "/Portfolio-Website/static/js/main.6aa7ba41.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fce53e6f.css",
+    "static/js/main.6aa7ba41.js"
+  ]
+}
