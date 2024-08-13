@@ -2,6 +2,10 @@
 
 Welcome to my personal portfolio website! This project is a comprehensive, modern, and responsive platform designed to showcase my professional journey, skills, and accomplishments in the field of computer science and web development. The website is built with cutting-edge front-end technologies, providing a dynamic and engaging user experience.
 
+## Live Demo
+
+Check out the live version of my portfolio website here: [https://shubham-kumar-sahoo.github.io/Portfolio-Website/](https://shubham-kumar-sahoo.github.io/Portfolio-Website/)
+
 ## 🌟 Features
 
 - **Responsive Design**: The layout is fully responsive, ensuring the website looks great on any device, from desktops to smartphones.
@@ -45,11 +49,6 @@ Follow these steps to get the project up and running locally:
    npm start
    ```
 5. **Open the application**: Visit `http://localhost:3000` in your browser to view the website.
-
-
-## Live Demo
-
-Check out the live version of my portfolio website here: [https://shubham-kumar-sahoo.github.io/Portfolio-Website/](https://shubham-kumar-sahoo.github.io/Portfolio-Website/)
 
 
 If you find this project interesting, or if you want to collaborate, feel free to connect with me on:
