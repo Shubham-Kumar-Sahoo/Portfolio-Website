@@ -52,23 +52,6 @@ Follow these steps to get the project up and running locally:
 Check out the live version of my portfolio website here: [https://shubham-kumar-sahoo.github.io/Portfolio-Website/](https://shubham-kumar-sahoo.github.io/Portfolio-Website/)
 
 
-## 🛠️ Customization & Usage
-
-This portfolio is designed to be easily customizable. You can personalize the following:
-
-- **Profile Information**: Update `header.js` with your personal information, profile picture, and bio.
-- **Projects**: Add or update projects in the `data.js` file within the `portfolio` section to showcase your work.
-- **Skills & Experience**: Edit the `experience` section to reflect your own career journey, skills, and achievements.
-- **Theme Colors**: Customize theme colors by editing the CSS variables in the `theme.css` file to match your personal brand.
-
-## 📈 Future Enhancements
-
-- **Project Categorization & Filtering**: Implement a system to filter projects by category, allowing users to view specific types of work (e.g., web development, data science).
-- **Blog Integration**: Add a blog section to share your thoughts, tutorials, and experiences in tech.
-- **Testimonials Section**: Include a section for testimonials from colleagues, clients, or mentors to add credibility to your portfolio.
-- **Search Functionality**: Implement a search feature to allow users to quickly find specific content on the site.
-
-
 If you find this project interesting, or if you want to collaborate, feel free to connect with me on:
 
 - [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/)
