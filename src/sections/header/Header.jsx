@@ -4,6 +4,7 @@ import headerimage from '../../assets/header.jpg';
 import data from './data';
 import AOS from 'aos';
 import 'aos/dist/aos.css';
+import { TypeAnimation } from 'react-type-animation';
 
 const Header = () => {
   useEffect(() => {
@@ -20,10 +21,13 @@ const Header = () => {
         <div className="header__profile" data-aos="flip-up">
           <img src={headerimage} alt="Header logo" />
         </div>
-        <h3 className="header__name" data-aos="fade-up">Shubham Kumar Sahoo</h3>
-        <p data-aos="fade-up">
-          Aspiring B.Tech in Computer Science with strong skills in machine learning and web development. Seeking a full-time position to apply my skills and contribute in innovative projects to develop practical skills in IT.
-        </p>
+        <TypeAnimation
+          cursor={true} 
+          className='type'
+          sequence={["Hi, I'm Shubham Kumar Sahoo", 1000, '']}
+          repeat={Infinity}
+        />
+        <p></p>
         <div className="header__cta" data-aos="fade-up">
           <a href="#contact" className="btn primary">Let's Talk</a>
           <a href="#portfolio" className="btn light">My Projects</a>
