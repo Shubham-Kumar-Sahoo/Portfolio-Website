@@ -9,7 +9,8 @@ import { TypeAnimation } from 'react-type-animation';
 const Header = () => {
   useEffect(() => {
     AOS.init({
-      duration: 1000,   
+      duration: 1000, 
+      once: true,  
       mirror: false,   
     });
   }, []);
@@ -23,7 +24,7 @@ const Header = () => {
         <TypeAnimation
           cursor={true} 
           className='type'
-          sequence={["Hi, I'm Shubham Kumar Sahoo", 1000, '']}
+          sequence={["Hi, I'm Shubham Kumar Sahoo", 800, '']}
           repeat={Infinity}
         />
         <p></p>
