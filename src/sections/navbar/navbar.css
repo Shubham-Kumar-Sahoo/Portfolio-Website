@@ -30,8 +30,17 @@ nav {
 }
 
 .nav__menu a {
-    color: white;
+    color: white; 
+    display: inline-block; 
+    transition: text-shadow 0.3s ease, transform 0.3s ease; 
 }
+
+.nav__menu a:hover {
+    text-shadow: 0.2rem 0.2rem 0.4rem rgba(0, 0, 0, 0.5); 
+    transform: translateY(-0.3rem);
+}
+
+
 
 
 #theme__icon{
