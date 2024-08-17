@@ -24,7 +24,7 @@ const Header = () => {
         <TypeAnimation
           cursor={true} 
           className='type'
-          sequence={["Hi, I'm Shubham Kumar Sahoo", 800, '']}
+          sequence={["Hi, I'm Shubham Kumar Sahoo", 800,'Driven by code and creativity',500]}
           repeat={Infinity}
         />
         <p></p>

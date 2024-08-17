@@ -26,7 +26,14 @@ const About = () => {
             ))}
           </div>
           <p>
-            Hello! I'm Shubham, a fourth-year B.Tech student with a CGPA of 9.40. I'm passionate about machine learning and web development, continually honing my skills and enhancing my practical knowledge.
+          <span style={{ 
+            fontFamily: 'cursive', 
+            fontWeight: 'bold', 
+            fontSize: '1.5rem',
+          }}>
+            Hello!
+          </span>
+             I'm a fourth-year B.Tech student in CSE with a CGPA of 9.40. I'm passionate about Machine Learning and Web Development, continually honing my skills and enhancing my practical knowledge.
           </p>
           <p>
             Aiming to excel and contribute to innovative tech projects, I also plan to pursue higher studies. In my free time, I explore tech trends or enjoy a good manga series and see some space videos.

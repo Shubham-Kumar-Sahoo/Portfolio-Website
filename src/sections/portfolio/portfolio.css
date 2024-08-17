@@ -5,6 +5,15 @@
     flex-wrap: wrap;
 }
 
+.portfolio__project { 
+    height: 26rem; 
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 1rem;
+    
+}    
+
 .btn.cat__btn{
     text-transform: capitalize;
     transition: var(--transition);
@@ -24,9 +33,6 @@
 
 .portfolio__project-image{
     width: 100%;
-    height: fit-content;
-    min-height: 7rem;
-    max-height: 15rem;
     background: var(--color-light);
     border-radius: var(--border-radius-2);
     margin-bottom: 1.5rem;

@@ -7,13 +7,13 @@ import { GrAchievement } from "react-icons/gr";
 
 
 const data = [
-    {id: 1, link: '#', icon: <AiFillHome/>},
-    {id: 2, link: '#about', icon: <BsPersonFill/>},
-    {id: 3, link: '#experience', icon: <MdHomeRepairService/>},
-    {id: 4, link: '#portfolio', icon: <AiFillAppstore/>},
-    {id: 5, link: '#achievements', icon: <GrAchievement />},
-    {id: 6, link: '#contact', icon: <AiFillMessage/>}
-]
+    { id: 1, link: '#header', icon: <AiFillHome /> },
+    { id: 2, link: '#about', icon: <BsPersonFill /> },
+    { id: 3, link: '#experience', icon: <MdHomeRepairService /> },
+    { id: 4, link: '#portfolio', icon: <AiFillAppstore /> },
+    { id: 5, link: '#achievements', icon: <GrAchievement /> },
+    { id: 6, link: '#contact', icon: <AiFillMessage /> }
+];
 
-
-export default data
+export default data;
+  
