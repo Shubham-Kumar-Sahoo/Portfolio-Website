@@ -1,4 +1,4 @@
-// import {SiAdobexd} from 'react-icons/si'
+import { MdOutlinePayment } from "react-icons/md";
 import { PiBagSimpleFill } from "react-icons/pi";
 import { RiRobot2Fill } from "react-icons/ri";
 import { CgWebsite } from "react-icons/cg";
@@ -6,7 +6,7 @@ import { CgWebsite } from "react-icons/cg";
 
 const data = [
     {
-        id: 1, icon: <SiAdobexd/>, title: 'Software Engineer Intern', company: 'Pine Labs' , desc: "Work alongside the DevOps team, utilizing Bitbucket for source code management, Bamboo for continuous integration (CI) and Octopus Deploy for continuous delivery (CD), integrating with AWS."
+        id: 1, icon: <MdOutlinePayment />, title: 'Software Engineer Intern', company: 'Pine Labs' , desc: "Work alongside the DevOps team, utilizing Bitbucket for source code management, Bamboo for continuous integration (CI) and Octopus Deploy for continuous delivery (CD), integrating with AWS."
     },
     {
         id: 2, icon: <PiBagSimpleFill />, title: 'Intern', company: 'SAIL' , desc: "Led a team of 8 at SAIL to analyze product performance, resulting in increase in user engagement through the development of a comprehensive report."
