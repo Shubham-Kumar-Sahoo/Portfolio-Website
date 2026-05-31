@@ -33,10 +33,10 @@ const About = () => {
           }}>
             Hello!
           </span>
-             I'm a fourth-year B.Tech student in CSE with a CGPA of 9.40. I'm passionate about Machine Learning and Web Development, continually honing my skills and enhancing my practical knowledge.
+          I  'm a DevOps Engineer specializing in cloud infrastructure, CI/CD automation, and Kubernetes-based deployments. My experience includes building scalable deployment pipelines, automating operational workflows using Python and AWS services, and developing engineering analytics solutions that improve software delivery performance and system reliability.
           </p>
           <p>
-            Aiming to excel and contribute to innovative tech projects, I also plan to pursue higher studies. In my free time, I explore tech trends or enjoy a good manga series and see some space videos.
+          I am passionate about platform engineering, infrastructure automation, and cloud-native technologies. Outside of work, I enjoy exploring advancements in AI, reading manga, and keeping up with developments in space exploration and technology.
           </p>
           <a href={resume} className="btn primary" download>
             Download Resume <HiDownload />
