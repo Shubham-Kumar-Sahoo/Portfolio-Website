@@ -33,7 +33,7 @@ const About = () => {
           }}>
             Hello!
           </span>
-          I  'm a DevOps Engineer specializing in cloud infrastructure, CI/CD automation, and Kubernetes-based deployments. My experience includes building scalable deployment pipelines, automating operational workflows using Python and AWS services, and developing engineering analytics solutions that improve software delivery performance and system reliability.
+          I'm a DevOps Engineer specializing in cloud infrastructure, CI/CD automation, and Kubernetes-based deployments. My experience includes building scalable deployment pipelines, automating operational workflows using Python and AWS services, and developing engineering analytics solutions that improve software delivery performance and system reliability.
           </p>
           <p>
           I am passionate about platform engineering, infrastructure automation, and cloud-native technologies. Outside of work, I enjoy exploring advancements in AI, reading manga, and keeping up with developments in space exploration and technology.
